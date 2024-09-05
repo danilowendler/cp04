@@ -40,4 +40,7 @@ Aqui estão algumas sugestões para futuras melhorias no projeto:
 🛒 Implementar um sistema de carrinho de compras.
 💳 Integração com APIs de pagamento para simulação de compras.
 📄 Melhorar páginas de categorias e contato, adicionando mais interatividade e funcionalidades.
-🔗 Conectar links de redes sociais para levar os usuários diretamente às páginas oficiais da loja.
+🔗 Conectar links de redes sociais para levar os usuários diretamente às páginas oficiais da loja.
+
+
+
